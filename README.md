@@ -25,4 +25,4 @@ Base on the insights found out from Olist dataset, I suggest some ideas as below
 * Bed bath table, sports leisure and health beauty are most popular categories that generate a vast amount of revenue. They should be focused on.
 * People buy products with many images more than the others. I suggest encouraging the sellers to add more product images to their own pages.
 * Sales should be promoted in order to get more customers who live in big cities.
-* The key of improving ratings of products is cutting off delivery time. 
+* The key of improving ratings of products is cutting off delivery time.
