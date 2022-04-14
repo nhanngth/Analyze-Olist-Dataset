@@ -15,3 +15,7 @@ The data that I used for analyzing comes from **Brazilian E-Commerce Public Data
 * [The List of All Cities and Municipalities in Brazil](https://github.com/nhanngth/Analyze-Olist-Dataset/blob/main/Get%20list%20of%20all%20cities.ipynb)
 * [Data Cleaning Notebook](https://github.com/nhanngth/Analyze-Olist-Dataset/blob/main/Olist%20Dataset%20Cleaning.ipynb)
 * [The Story of Customers](https://github.com/nhanngth/Analyze-Olist-Dataset/blob/main/The%20Story%20of%20Customers.twbx)
+
+## Some proposals
+Base on the insights found out from Olist dataset, I suggest some ideas as below:
+* The top 10 percent of customers contribute approximate 25% to total revenue. They should be focused on.
