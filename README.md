@@ -9,7 +9,7 @@ By figuring out these insights, I attempt to propose some ideas based on my poin
 ## Data source
 The data that I used for analyzing comes from **Brazilian E-Commerce Public Dataset by Olist**, which is provided by Olist, an e-commerce website founded in Brazil. The dataset can be obtained from [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resource=download). In addition, lists of Brazil’s states, cities, municipalities and population can be found on [Wikipedia](https://en.wikipedia.org/wiki/Main_Page). 
 
-## Main materials of this project
+## Main materials
 * [Raw Dataset](https://github.com/nhanngth/Analyze-Olist-Dataset/tree/main/Olist%20Raw%20Dataset)
 * [Cleaned Dataset](https://github.com/nhanngth/Analyze-Olist-Dataset/tree/main/Cleaned%20Dataset)
 * [The List of All Cities and Municipalities in Brazil](https://github.com/nhanngth/Analyze-Olist-Dataset/blob/main/Get%20list%20of%20all%20cities.ipynb)
