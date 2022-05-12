@@ -1,5 +1,5 @@
 # Olist Dataset Analysis
-If you do not have Tableau, please visit my project's [link](https://public.tableau.com/app/profile/nhan.nguyen5609/viz/TheStoryofCustomers/OlistCustomersStory) 
+If you do not have Tableau, please visit my Tableau project's [link](https://public.tableau.com/app/profile/nhan.nguyen5609/viz/TheStoryofCustomers/OlistCustomersStory) 
 
 **Analyzing the dataset by splitting customers into two groups: 10 percent of customers with the highest revenue and the remaining.**
 
